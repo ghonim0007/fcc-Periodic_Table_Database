@@ -22,7 +22,7 @@ This project is a **PostgreSQL database** that stores information about chemical
 Below is the image confirming the successful completion of this project:  
 
 ![Completion Proof](periodic_table.png)  
-![Completed 3 of 5 certification projects](Completed_3.png)  
+![Completed 5 of 5 certification projects](Completed_5.png)  
 
 ---
 
